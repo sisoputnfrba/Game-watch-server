@@ -21,6 +21,8 @@
 #define IP "127.0.0.1"
 #define PUERTO "4444"
 
+t_log* logger;
+
 typedef enum
 {
 	MENSAJE=1
