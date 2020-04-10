@@ -1,5 +1,2 @@
-*.mk
-*.d
-*.o
 *.log
 Debug/Games-watch-server
